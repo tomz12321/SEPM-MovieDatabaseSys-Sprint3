@@ -46,7 +46,7 @@ Step 8) Press 5 to Search available seats via a movie
 Step 9) Press 6 to Search available seats via a cineplex
 Step 10) Press 7 to Pay by Credit card
 Step 11) Press 8 to Trace booking via a Member's Email [Trial version].
-Step 11) Press 9 to Exit and write data back to the text file: myTickets.txt.
+Step 12) Press 9 to Exit and write data back to the text file: myTickets.txt.
 
 This project requires Blue to Demo:
 [Download site] https://www.bluej.org/versions.html
